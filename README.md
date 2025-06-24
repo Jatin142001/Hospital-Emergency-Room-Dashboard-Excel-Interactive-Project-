@@ -32,12 +32,12 @@
 ## 🛠 Tools Used:
 ### Microsoft Excel
 - Pivot Tables
-  #### _ Charts (Bar, Pie, Area)
-  #### _ Slicers & Buttons
-  #### _ Conditional Formatting
-  #### _ Dashboard Design Techniques
+-  Charts (Bar, Pie, Area)
+-  Slicers & Buttons
+-  Conditional Formatting
+- Dashboard Design Techniques
 
 ## 📌 Use Cases:
-#### _ Track emergency room performance monthly.
-#### _ Identify patterns in wait time and satisfaction.
-#### _ Use as a reporting tool for hospital management.
+- Track emergency room performance monthly.
+- Identify patterns in wait time and satisfaction.
+- Use as a reporting tool for hospital management.
