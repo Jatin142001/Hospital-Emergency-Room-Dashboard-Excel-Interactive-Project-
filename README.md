@@ -3,22 +3,22 @@
 
 ## 📊 Project Summary
 ### This dashboard captures and visualizes the monthly report for a hospital's Emergency Room (ER). The data is compiled, cleaned, and analyzed in Microsoft Excel using built-in features like:
-  #### 1. Pivot Tables
-  #### 2. Data Validation
-  #### 3. Conditional Formatting
-  #### 4. Dynamic Charts
-  #### 5. Slicers and Timelines
-  #### 6. Advanced Formulas (e.g., INDEX, MATCH, IF, COUNTIFS, etc.)
+- Pivot Tables
+- Data Validation
+- Conditional Formatting
+- Dynamic Charts
+- Slicers and Timelines
+- Advanced Formulas (e.g., INDEX, MATCH, IF, COUNTIFS, etc.)
 
 ## ✅ Key Features
-#### (a) Total Patients Treated
-#### (b) Average Wait Time
-#### (c) Patient Satisfaction Score
-#### (d) Admission Analysis: Admitted or Not Admitted
-#### (e) Gender Distribution: Male or Female
-#### (f) Timeliness of Service: On-time or Delayed
-#### (g) Age Group Distribution
-#### (h) Top Referred Departments: General Practice, Orthopedics, and Physiotherapy, etc.
+- Total Patients Treated
+-  Average Wait Time
+- Patient Satisfaction Score
+- Admission Analysis: Admitted or Not Admitted
+- Gender Distribution: Male or Female
+- Timeliness of Service: On-time or Delayed
+- Age Group Distribution
+- Top Referred Departments: General Practice, Orthopedics, and Physiotherapy, etc.
 
 ## 📁 Project Files
 | File                                    | Description                                                |
