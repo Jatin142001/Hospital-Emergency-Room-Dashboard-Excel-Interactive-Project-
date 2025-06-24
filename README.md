@@ -1,33 +1,24 @@
 # 🏥 Hospital Emergency Room Dashboard (Excel)
-#### An advanced Excel dashboard project designed to monitor and analyze key performance metrics of a hospital’s emergency room. This interactive dashboard provides critical insights into patient flow, service efficiency, and satisfaction, helping healthcare professionals make informed decisions.
+### An advanced Excel dashboard project designed to monitor and analyze key performance metrics of a hospital’s emergency room. This interactive dashboard provides critical insights into patient flow, service efficiency, and satisfaction, helping healthcare professionals make informed decisions.
 
 ## 📊 Project Summary
 ### This dashboard captures and visualizes the monthly report for a hospital's Emergency Room (ER). The data is compiled, cleaned, and analyzed in Microsoft Excel using built-in features like:
-  ### Pivot Tables
-  ### Data Validation
-  ### Conditional Formatting
-  ### Dynamic Charts
-  ### Slicers and Timelines
-  ### Advanced Formulas (e.g., INDEX, MATCH, IF, COUNTIFS, etc.)
+  #### Pivot Tables
+  #### Data Validation
+  #### Conditional Formatting
+  #### Dynamic Charts
+  #### Slicers and Timelines
+  #### Advanced Formulas (e.g., INDEX, MATCH, IF, COUNTIFS, etc.)
 
 ## ✅ Key Features
-### Total Patients Treated
-### Average Wait Time
-### Patient Satisfaction Score
-### Admission Analysis:
-  #### Admitted
-  #### Not Admitted
-### Gender Distribution:
-  #### Male
-  #### Female
-### Timeliness of Service:
-  #### On-time
-  #### Delayed
+#### Total Patients Treated
+#### Average Wait Time
+#### Patient Satisfaction Score
+#### Admission Analysis: Admitted or Not Admitted
+#### Gender Distribution: Male or Female
+#### Timeliness of Service: On-time or Delayed
 ### Age Group Distribution
-### Top Referred Departments:
-  #### General Practice
-  #### Orthopedics
-  #### Physiotherapy, etc.
+### Top Referred Departments: General Practice, Orthopedics and Physiotherapy, etc.
 
 ## 📁 Project Files
 | File                                    | Description                                                |
@@ -47,6 +38,6 @@
   #### Dashboard Design Techniques
 
 ## 📌 Use Cases:
-### Track emergency room performance on a monthly basis.
-### Identify patterns in wait time and satisfaction.
-### Use as a reporting tool for hospital management.
+#### Track emergency room performance monthly.
+#### Identify patterns in wait time and satisfaction.
+#### Use as a reporting tool for hospital management.
