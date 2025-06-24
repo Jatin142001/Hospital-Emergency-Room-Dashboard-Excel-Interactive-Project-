@@ -31,7 +31,7 @@
 
 ## 🛠 Tools Used:
 ### Microsoft Excel
-  #### -Pivot Tables
+- Pivot Tables
   #### _ Charts (Bar, Pie, Area)
   #### _ Slicers & Buttons
   #### _ Conditional Formatting
